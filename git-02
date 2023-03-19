@@ -67,4 +67,4 @@
    67  git branch -d rajesh
    68  git branch -D rajesh
    69  git branch
-   70  history line not necessary
+   70  history
